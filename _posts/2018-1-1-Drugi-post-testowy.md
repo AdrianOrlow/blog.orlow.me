@@ -1,21 +1,19 @@
 ---
 layout: post
 title: Drugi post testowy
+date: 2015-11-17 16:16:01 -0600
+permalink: drugi-post
 ---
 
-[<img src="{{ site.baseurl }}/images/img.jpg" alt="800 x 500"/>]({{ site.baseurl }}/2018-1-1-Drugi-post-testowy.md)
-Ten tekst reprezentuje wstęp zachęcający do przeczytania [artykułu]({{ site.baseurl }}/2018-1-1-Drugi-post-testowy.md), czyli lead. Ten tekst reprezentuje wstęp zachęcający do przeczytania [artykułu]({{ site.baseurl }}/2018-1-1-Drugi-post-testowy.md), czyli lead. Ten tekst reprezentuje wstęp zachęcający do przeczytania [artykułu]({{ site.baseurl }}/2018-1-1-Drugi-post-testowy.md), czyli lead.
-
-
-
+[<img src="{{ site.baseurl }}/images/img.jpg" alt="800 x 500"/>]({{ site.baseurl }}/drugi-post)
+Ten tekst reprezentuje wstęp zachęcający do przeczytania [artykułu]({{ site.baseurl }}/drugi-post), czyli lead. Ten tekst reprezentuje wstęp zachęcający do przeczytania [artykułu]({{ site.baseurl }}/drugi-post), czyli lead. Ten tekst reprezentuje wstęp zachęcający do przeczytania [artykułu]({{ site.baseurl }}/drugi-post), czyli lead.
+<!--more-->
 
 # Podtytuł
 
 ##### Lorem ipsum to popularny wypełniacz tekstowy.
-  - punktor okrągły (WiP)
-  - drugi punkt
-  - i trzeci
-
+  - punktory nie dzialają
+  - nie pozdrawiam
 # Drugi podtytuł
 
 Ta strona została zbudowana na podstawie Jekyll, a jest hostowana na GitHub. Jej kod został napisany w pełni przez Adriana Orłów.
@@ -30,50 +28,53 @@ Przykładowe linki:
 
 *   [Nastoletni Programiści](nastoletni.pl) - strona społeczności skupiającej programujących nastolatków
 *   [Adrian Orłów](orlow.me) - moja strona osobista
-*   [Adrian Orłów Blog](blog.orlow.me) - Blog, na którym się obecnie znajdujesz </br>
+*   [Adrian Orłów Blog](blog.orlow.me) - Blog, na którym się obecnie znajdujesz
 
+<br />
 ##### Cały kod jest na licencji MIT, co oznacza, że każdy może z niego korzystać jak chce, tylko musi podać oryginalnego autora. Wspaniałe, co nie?
+<br />
 
-#### Kalkulator w C++ (kolorowanie składni WiP):
+#### Kalkulator w C++ (brak kolorowania składni, bo optymalizacja):
   
 ```cpp
-#include <cstdlib>
 #include <iostream>
 
 int main()
 {
     char op;
-    int a,b,wynik;
-    do {
+    float num1, num2;
+
+    std::cout << "Wprowadź operator (+, -, *, /):" << std::endl;
     std::cin >> op;
-    std::cin >> a >> b;
-    switch(op) {
+
+    std::cout << "Wprowadź dwie liczby: ";
+    std::cin >> num1 >> num2;
+
+    switch(op)
+    {
         case '+':
-            wynik = a+b;
+            cout << num1+num2;
             break;
 
         case '-':
-            wynik = a-b;
+            cout << num1-num2;
             break;
 
         case '*':
-            wynik = a*b;
+            cout << num1*num2;
             break;
 
         case '/':
-            wynik = a/b;
+            cout << num1/num2;
             break;
 
-        case '%':
-            wynik = a%b;
-            break;
         default:
-                return 0;
-        }
-        std::cout << wynik;
-    }while (std::cin>> op >> a >> b) ;
-}
+            cout << "Bledny operator";
+            break;
+    }
 
+    return 0;
+}
 ```
 
 ### Tak to kod!
@@ -87,4 +88,5 @@ A to tabelka (WiP):
 
 
 # Co jeszcze?
-Tak właściwie to nic, już możemy się pożegnać.
+Tak właściwie to nic, już możemy się pożegnać. <br/>
+:)
