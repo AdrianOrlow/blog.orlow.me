@@ -15,10 +15,11 @@ layout: default
     <div class="post__entry">
         {{ content }}
     </div>
+    {% include disqus.html %}
   </div>
 
   <div class="post__comments">
       <h2 class="h1--comments">Komentarze</h2>
-      {% include disqus.html %}
+      
   </div>
 </article>
