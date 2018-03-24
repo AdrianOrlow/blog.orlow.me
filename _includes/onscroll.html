@@ -1,0 +1,16 @@
+    <script type="text/javascript">
+        window.onscroll = function() {
+            var post = document.getElementsByClassName('post');
+            var comments = document.getElementsByClassName('post__comments');
+            var wrapper = document.getElementById('wrapper');
+            if ( window.pageYOffset > 250 ) {
+                post[0].classList.add("post--white");
+                comments[0].classList.add("post__comments--white");
+                wrapper.classList.add("wrapper--grey");
+            } else {
+                post[0].classList.remove("post--white");
+                comments[0].classList.remove("post__comments--white");
+                wrapper.classList.remove("wrapper--grey");
+            }
+        }
+    </script>

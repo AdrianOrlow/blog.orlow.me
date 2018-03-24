@@ -158,8 +158,16 @@
     }
     
     tr:hover {
-        background-color:#ececec;
+        background-color:#f4f4f4;
     }
+
+    #wrapper {
+        transition: all 1s ease-in-out;
+    }
+
+        .wrapper--grey {
+            background-color: #f5f5f5;
+        }
 
 /* Header */
 
@@ -236,10 +244,15 @@
         border-width: 0.5em;
         border-radius: 5px;
         background-color: #f5f5f5;
+        transition: all 1s ease-in-out;
     }
 
         .post--view {
             padding: 2em 5%;
+        }
+
+        .post--white {
+            background-color: #fff;
         }
 
         .post__title {
@@ -323,6 +336,10 @@
             background-color: #f5f5f5;
         }
 
+            .post__comments--white {
+                background-color: #fff;
+            }
+
         .post__links {
             padding: 2em 5%;
             margin: 0 auto;
@@ -338,7 +355,8 @@
         padding: 1em;
         border-width: 0.5em;
         border-radius: 5px;
-        background-color: #dcdcdc;
+        background-color: #f4f4f4;
+        margin: 1em 0;
     }
 
     .articles article p a img {
