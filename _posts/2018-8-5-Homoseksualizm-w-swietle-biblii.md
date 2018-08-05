@@ -7,7 +7,7 @@ permalink: biblia-homoseksualizm
 ---
 
 [<img src="{{ site.baseurl }}/images/thumbnails/{{ page.image }}" alt="{{ page.title }}"/>]({{ site.baseurl }}/{{ page.permalink }})
-W tym artkule spróbuję całkowicie wyczeprać sprawę **homoseksualizmu w Biblii**. Tekst był wcześniej udostępniany wybranym osobom, ale zdecydowałem się go upublicznić.
+W tym artykule spróbuję całkowicie wyczeprać sprawę **homoseksualizmu w Biblii**. Tekst był wcześniej udostępniany wybranym osobom, ale zdecydowałem się go upublicznić.
 
 <!--more-->
 
