@@ -34,7 +34,7 @@ A chwilę potem:
 
 Po raz kolejny: **PÓŁPRAWDA**. Bo przecież to nie KE będzie sprawdzać wiadomości użytkowników, **tylko algortymy serwisów, z których korzystamy**.
 <br/>
-Później KE podaje na przykład tego, że kontrola treści to nic nowego... **ContactID YouTube**, tak, dokładnie ten system, który **masowo blokuje** ludziom filmy i konta, ponieważ błędnie zinterpretował wrzucone przez nich materiały.
+Później KE podaje na przykład tego, że kontrola treści to nic nowego... **ContentID YouTube**, tak, dokładnie ten system, który **masowo blokuje** ludziom filmy i konta, ponieważ błędnie zinterpretował wrzucone przez nich materiały.
 <br/>
 Warto wspomnieć również, że podobny do tego system po wprowadzeniu dyrektywy omawianej w tym tekście, będą musiały mieć **WSZYSTKIE** serwisy pozwalające na publikowanie treści przez użytkowników (art. 11)! Wprowadzenie i działalność takich algrotymów wiąże się z **ogromnymi kosztami**, na które pozwolić będą mogły sobie **jedynie duże serwisy**. W ten sposób, **pod przykrywką naszego dobra**, UE chce promować monopol wielkich korporacji!
 <br/><br/>
