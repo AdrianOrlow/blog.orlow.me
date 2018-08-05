@@ -41,4 +41,4 @@ Na podstawie powyższego fragmentu można stwierdzić, że Biblia **nie traktuje
 Biblia naucza, że Bóg nie stworzył nikogo z pragnieniem, by stać się homoseksualistą, a jedynie człowiek **staje się homoseksualny, gdyż zgrzeszył** (por. Rz 1:24-17; BT), czyli **sam podjął taką decyzję**.
 Wielu chrześcijan stwierdza, że niektórzy ludzie mogli urodzić się z **większą tendencją do homoseksualizmu**, podobnie jak niektórzy rodzą się z większą tendencją do przemocy, czy innych grzechów. Jednak Biblia **nigdzie** o takiej możliwości bezpośrednio nie wspomina, więc poddaję to pod waszą opinię.<br/><br/>
 
-Na koniec warto wspomnieć o tym, że Bóg judeochrześcijański w Biblii obiecuje **"siłę do zwycięstwa nad grzechem"** (w tym homoseksualizmem) wszystkim, którzy uwierzą, że Jezus Chrystus zbawia (1 Kor 6:11, 2 Kor 5:17, Rz 10:9...; BT).
+Na koniec warto wspomnieć również o tym, że Bóg z Biblii obiecuje **"siłę do zwycięstwa nad grzechem"** (w tym homoseksualizmem) wszystkim, którzy uwierzą, że Jezus Chrystus zbawia (1 Kor 6:11, 2 Kor 5:17, Rz 10:9...; BT).
