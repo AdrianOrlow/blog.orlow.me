@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Re: #ACTA2 to #FAKENEWS"
+title: Odpowiedź na kłamliwą wypowiedź KE
 date: 2018-07-02 12:00:00 +0100
 image: acta2-fakenews.png
 permalink: acta2-fakenews
@@ -8,7 +8,9 @@ permalink: acta2-fakenews
 
 [<img src="{{ site.baseurl }}/images/thumbnails/{{ page.image }}" alt="{{ page.title }}"/>]({{ site.baseurl }}/{{ page.permalink }})
 Merytoryczna i wyczerpująca odpowiedź na artykuł KEwPL pt. ["Nie, nie zabierzemy Wam memów! #ACTA2 to #FAKENEWS!"](https://www.facebook.com/notes/komisja-europejska-w-polsce/nie-nie-zabierzemy-wam-mem%C3%B3w-acta2-to-fakenews/2510288585663448/)
+
 <!--more-->
+
 <br/><br/>
 W tym tekście wytłumaczę Ci w jaki sposób KE próbuje wmówić ludziom, że nic się nie dzieje poprzez stosowanie półprawdy, a tak właściwie to **"ACTA2" nie istnieje**, co zresztą sami napisali (sic!). I tak, "ACTA2" nie istnieje i nigdy nie zostanie wprowadzone w życie, ponieważ to tylko **nazwa** wymyślona przez internautów **dla projektu dyrektywy** COM/2016/0593!
 
@@ -18,6 +20,7 @@ Odwołując się do tekstów od KEwPL, memy to **nie to samo**, co materiały sa
 <br/><br/>
 
 ## "Podatek" od linków
+
 Na stronie Komisji Europejskiej w Polsce czytamy:
 
 > Podatek od linków? **TO BZDURA!** [...] Nie wprowadzamy podatku od linkowania! [...] To w jaki sposób udostępniacie między sobą LEGALNE materiały, _które nie łamią praw autorskich nie zmieni się_!
@@ -26,10 +29,13 @@ I to kolejna półprawda, ponieważ rzeczywiście **nikt nie ma zamiaru opodatko
 <br/><br/>
 
 ## "To nic nowego"
+
 Co dalej czytamy w artykule KEwPL?
+
 > **Nie, nie będziemy** czytać Waszych wiadomości na messengerze, grzebać w Waszych snapach i usuwać to, co piszecie.
 
 A chwilę potem:
+
 > Tak, platformy, które wrzucają materiały uploadowane przez użytkowników, **będą musiały mieć odpowiednie mechanizmy sprawdzające**, czy to co wrzucacie nie łamie czyichś praw autorskich.
 
 Po raz kolejny: **PÓŁPRAWDA**. Bo przecież to nie KE będzie sprawdzać wiadomości użytkowników, **tylko algortymy serwisów, z których korzystamy**.
@@ -40,15 +46,17 @@ Warto wspomnieć również, że podobny do tego system po wprowadzeniu dyrektywy
 <br/><br/>
 
 ## Dyrektywa, a prawo
+
 Na koniec wytłumaczę jeszcze, że dyrektywa nie jest prawem. Dyrektywa to jedynie _"akt prawa pochodnego UE, którego mocą prawodawcy państw członkowskich Unii zostają zobowiązani do wprowadzenia określonych regulacji prawnych, służących osiągnięciu wskazanego w dyrektywie celu."_, co po ludzku oznacza, że jest ona jedynie **instrukcją** dla rządów krajów członkowskich, na podstawie której mają "napisać swoje prawo". Zrozumienie tego jest bardzo ważne, ponieważ nasz rząd **może jeszcze bardziej rozszerzyć zapisy dyrektywy zwanej "ACTA2"**, na co również **nie powinniśmy sobie pozwolić!**
 <br/><br/>
 
 ## Podsumowanie
+
 Nigdy nie wierzcie eurokratom i tym bardziej ich PRowcom, dyrektywa **zwana** "ACTA2", to nie fake news, to rzeczywistość. Rzeczywistość, która może być wprowadzeniem do całkowitej kontroli nad naszą wolnością.
 <br/><br/>
 
 > Naprawdę myślicie, że _ktokolwiek na świecie_ zdecydowałby się na ocenzurowanie internetu?
-**~ Komisja Europejska w Polsce**
+> **~ Komisja Europejska w Polsce**
 
 <br/>
 Więcej:
