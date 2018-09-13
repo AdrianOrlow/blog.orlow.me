@@ -15,7 +15,8 @@ Ostatnio na Facebooku zauważyłem [pewien filmik](https://www.facebook.com/oko.
 
 **Nagranie, o którym mowa:**
 
-<iframe class="text-align:center;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Foko.press%2Fvideos%2F339547129951628%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe><br/>
+<div style="position: relative; padding-bottom: 100%; height: 0; overflow: hidden;"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Foko.press%2Fvideos%2F339547129951628%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden;position: absolute; top:0; left: 0; width: 100%; height: 100%;" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+</div><br/>
 
 **Całkowicie nie rozumiem oburzenia niektórych komentujących to wideo, w którym wypowiada się Prezydent Andrzej Duda.**<br/><br/>
 
